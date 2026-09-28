@@ -1,4 +1,4 @@
-# 🤖 ARB Agent — Autonomous Cross-Chain ETH Arbitrage Agent
+# ARB Agent — Autonomous Cross-Chain ETH Arbitrage Agent
 
 > An autonomous DeFi arbitrage agent built on IQ AI ADK-TS that detects and executes profitable ETH price gaps across NEAR, Arbitrum, and Base using NEAR Intents — powered by Gemini AI.
 
